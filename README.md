@@ -6,7 +6,6 @@
 - 🔭 I’m currently working for the government, but also searching for my first job as a Junior Data Analyst!
 - 💻 Skills: **SQL, Machine Learning, Power BI, DAX, DBT, Excel**
 - 🌱 Learning and studying more about: **Python, Machine Learning, DAX**
-- 🚌 Recently graduated from *Le Wagon Data Analytics Bootcamp*
+- 🚌 Graduated from *Le Wagon Data Analytics Bootcamp*
 - 📫 Talk to me about: diversity, projects and opportunities for women in tech, courses
 - 🌈 Pronouns: she/her
-- ⚡ Interests: gaming, k-pop, beach
